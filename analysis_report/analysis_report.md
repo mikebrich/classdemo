@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Midterm Analysis Report
 
 ## Types of Risk Measurements Chosen and their Properties 
