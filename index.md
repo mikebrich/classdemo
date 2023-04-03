@@ -8,11 +8,12 @@ Hi! My name is Michael Rich, and I am a student at Lehigh University in the [Int
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](analysis_report/analysis_report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+Change this to something important.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="analysis_report/output_33_0.png?raw=true"/>
 
 ---
 
