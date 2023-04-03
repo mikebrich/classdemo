@@ -1,15 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
-
+Hi! My name is Michael Rich, and I am a student at Lehigh University in the [Integrated Business and Engineering Honors Program (IBE)](https://ibe.lehigh.edu/) studying Financial Engineering. I am an enthusiastic student-entrepreneur who is excited to solve problems with finance and engineering applications. I am incredibly interested in startup companies and am constantly exploring new and innovative ways to improve the technological landscape.
 ---
 
 ## Portfolio
