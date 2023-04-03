@@ -1,6 +1,7 @@
 ## About Me
 
 Hi! My name is Michael Rich, and I am a student at Lehigh University in the [Integrated Business and Engineering Honors Program (IBE)](https://ibe.lehigh.edu/) studying Financial Engineering. I am an enthusiastic student-entrepreneur who is excited to solve problems with finance and engineering applications. I am incredibly interested in startup companies and am constantly exploring new and innovative ways to improve the technological landscape.
+
 ---
 
 ## Portfolio
@@ -29,9 +30,10 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+_**Internship at [West Monroe Partners](https://www.westmonroe.com/): Automation**_
+
+As a management consulting intern, I noticed a labor-intensive data collection process used to examine a private equity firm's portfolio companies. I automated that (using python!) and the firm is putting the program into production. **It will save 170+ hours of labor every year.** 
 
 ---
 
